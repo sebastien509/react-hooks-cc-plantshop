@@ -1,46 +1,64 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "31e0",
+      "name": "Chamomile",
+      "image": "https://www.creativefabrica.com/wp-content/uploads/2020/11/24/Chamomile-Plant-with-Flowers-Graphics-6792130-1-1-580x387.jpg",
+      "price": "15"
+    },
+    {
+      "id": "172a",
+      "name": "Sunflower",
+      "image": "https://c7.alamy.com/comp/E9W03D/sunflower-plant-in-a-terracotta-pot-isolated-against-white-E9W03D.jpg",
+      "price": "25"
+    },
+    {
+      "id": "879c",
+      "name": "Chamaedorea",
+      "image": "https://d3k81ch9hvuctc.cloudfront.net/company/WAtpTa/images/dd36c16c-a49f-4dd9-95e9-ed9c6eab5400.png",
+      "price": "35"
     }
   ]
 }
